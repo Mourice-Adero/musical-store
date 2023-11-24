@@ -1,0 +1,33 @@
+.p-2 {
+    padding: 0.8rem;
+}
+
+.p-5 {
+    padding: 1.8rem;
+}
+
+.links {
+    padding: 2px;
+    margin: 2px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 1rem;
+}
+.form div {
+    margin-bottom: 15px;
+}
+.form div>input {
+    display: block;
+}
+.form div>button {
+    padding: 8px;
+}
+.form .form-error {
+    font-size: .75rem;
+    color: red;
+    font-weight: bold;
+}
